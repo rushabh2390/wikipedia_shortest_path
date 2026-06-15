@@ -235,12 +235,6 @@ class DatabaseManager:
                 
         print("="*50 + "\n")
 
-Here are the documented and annotated updates for both the WikiCrawler layer and the WikiShortestPathSolver layer.
-
-The docstrings have been enhanced to thoroughly explain the underlying mechanics, and extensive comments have been integrated throughout the execution loops to detail how the thread synchronization, caching, and batching structures work in practice.
-
-2. CRAWLER / NETWORK PARSING LAYER
-Python
 # ==========================================
 # 2. CRAWLER / NETWORK PARSING LAYER
 # ==========================================
